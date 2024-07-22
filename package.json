@@ -42,7 +42,7 @@
     "reflect-metadata": "0.2.2",
     "release-it": "17.6.0",
     "ts-jest": "29.2.3",
-    "typescript": "5.5.3"
+    "typescript": "5.5.4"
   },
   "dependencies": {},
   "lint-staged": {
